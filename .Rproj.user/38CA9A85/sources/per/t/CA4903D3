@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587906461547.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1476193666",
+    "id" : "CA4903D3",
+    "lastKnownWriteTime" : 1587962960,
+    "last_content_update" : 1587962961005,
+    "path" : "H:/projects-2/MCDM/Project/index_test.R",
+    "project_path" : "index_test.R",
+    "properties" : {
+        "cursorPosition" : "19,52",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

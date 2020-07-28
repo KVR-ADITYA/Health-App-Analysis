@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587884964469.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3594626681",
+    "id" : "B459AF19",
+    "lastKnownWriteTime" : 1587885312,
+    "last_content_update" : 1587885312698,
+    "path" : "H:/projects-2/MCDM/Project/iris.r",
+    "project_path" : "iris.r",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

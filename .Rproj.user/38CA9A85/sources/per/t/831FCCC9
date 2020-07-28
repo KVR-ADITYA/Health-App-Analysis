@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588304320367.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3882603996",
+    "id" : "831FCCC9",
+    "lastKnownWriteTime" : 1588304697,
+    "last_content_update" : 1588304697975,
+    "path" : "H:/projects-2/MCDM/Project/overview.R",
+    "project_path" : "overview.R",
+    "properties" : {
+        "cursorPosition" : "72,0",
+        "scrollLine" : "56",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
